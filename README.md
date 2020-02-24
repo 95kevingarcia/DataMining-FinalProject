@@ -1,0 +1,3 @@
+# DataMining-FinalProject
+
+For my final project I decided to do a classification problem, specifically classifying books  acquired from Project Gutenberg. By using word dictionaries found from SCOWL, I did association analysis to cluster books from the database based on age appropriateness, racial hate, and neither of the two. Note that the two categories, age appropriateness and racial hate, are not mutually exclusive, as some adult books could contain racial slurs and vice versa. Additionally, I looked at which word commonly precedes or follows another word. I also made a training set and testing set on the books to predict which category the next book an author writes would belong to.
