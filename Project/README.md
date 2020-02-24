@@ -1,5 +1,7 @@
 # Project
 To run the program go to this link https://hub.gke.mybinder.org/user/95kevingarcia-d-ng-finalproject-nn7rcf2o/lab
+You might have to get a new Binder for this repo by clicking the highlighted here text. After the building a window will open.
+
 There the main.ipynb is the file that you want to run. Under the Kernel tab click restart Kernal and run all cells. 
 If the program says something about the kernel being unresponsive, delete 80 books from the Books folder to get to 20 books total.
 Then change "50" in lines 536 537 539 and 540 to 10. This is a bug where the online binder cannot run through all of the books before it thinks it is unresponsive.
