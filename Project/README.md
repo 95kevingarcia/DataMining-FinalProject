@@ -1,4 +1,4 @@
-#Project
+# Project
 To run the program go to this link https://hub.gke.mybinder.org/user/95kevingarcia-d-ng-finalproject-nn7rcf2o/lab
 There the main.ipynb is the file that you want to run. Under the Kernel tab click restart Kernal and run all cells. 
 If the program says something about the kernel being unresponsive, delete 80 books from the Books folder to get to 20 books total.
